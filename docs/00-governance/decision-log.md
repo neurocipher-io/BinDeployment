@@ -7,4 +7,6 @@ This document tracks architectural and technical decisions made for the BinDeplo
 
 | Date | Decision | Rationale | Impact |
 |------|----------|-----------|--------|
-| TBD  | TBD      | TBD       | TBD    |
+| | | | |
+
+*Add architectural and technical decisions to this log as they are made.*
